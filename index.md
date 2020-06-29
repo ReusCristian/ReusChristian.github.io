@@ -5,3 +5,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Ein friedlebender Geselle
 * Wurde Bürgermeister vom Auenland
 > Stet clita kasd gubergren
+<img src="http://lorempixel.com/400/200/sports/Dummy-Text/"/>
